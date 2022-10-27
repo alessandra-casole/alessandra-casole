@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi everyone, I'm Alessandra</h1>
-<h3 align="center">A freelance Crowd Tester and a passionate Front End Development student from Italy</h3>
+<h3 align="center">A freelancer Crowd Tester and a passionate Front End Development student from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-casole&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-casole" /> </p>
 
