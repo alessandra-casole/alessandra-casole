@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-casole&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-casole" /> </p>
 
-🔭 I’m currently working on [Website Template](https://alessandra-casole.github.io/project/)
+🔭 I’m currently working on my [Website Template](https://alessandra-casole.github.io/project/)
 
 🌱 I’m currently learning **JavaScript**
 
