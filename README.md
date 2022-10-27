@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-casole&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-casole" /> </p>
 
-- 🔭 I’m currently working on [Website Template](https://alessandra-casole.github.io/project/)
+🔭 I’m currently working on [Website Template](https://alessandra-casole.github.io/project/)
 
-- 🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **alessandra.casole92@gmail.com**
+📫 How to reach me **alessandra.casole92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
