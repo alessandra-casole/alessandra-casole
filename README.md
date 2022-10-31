@@ -1,4 +1,4 @@
-
+![](https://github.com/alessandra-casole/alessandra-casole/blob/main/prova.png)
 <h1 align="center">👋 Hi there, I'm Alessandra</h1>
 <h3 align="center">A freelancer Crowd Tester and passionate Front End Development student from Italy</h3>
 <hr/>
