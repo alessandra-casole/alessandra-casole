@@ -23,6 +23,6 @@ I'm Alessandra, a freelancer Crowd Tester and passionate Front End Development s
 </p>
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-casole&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-casole" /> </p>
+
 
 
