@@ -17,7 +17,7 @@ I'm Alessandra, a freelancer Crowd Tester and passionate Front End Development s
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandra-casole&show_icons=true&locale=en&layout=compact" alt="alessandra-casole" /></p>
 
 
-## Connect with me
+## Get in touch
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alessandracasole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessandracasole/" height="30" width="40" /></a>
 </p>
