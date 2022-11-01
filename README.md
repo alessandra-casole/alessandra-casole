@@ -1,6 +1,6 @@
 ![](https://github.com/alessandra-casole/alessandra-casole/blob/main/banner.png)
 <h1 align="left">👋 Hi there,</h1>
-<h4 align="left">I'm Alessandra, a freelancer Crowd Tester and passionate Front End Development student from Italy.</h4>
+<h3 align="left">I'm Alessandra, a freelancer Crowd Tester and passionate Front End Development student from Italy.</h3>
 <hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-casole&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-casole" /> </p>
