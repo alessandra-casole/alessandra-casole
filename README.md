@@ -1,5 +1,5 @@
 ![](https://github.com/alessandra-casole/alessandra-casole/blob/main/banner.png)
-<h1 align="center">👋 Hi there,</h1>
+<h1 align="center"> Hi there 👋</h1>
 <h3 align="center">I'm Alessandra, a freelancer Crowd Tester and passionate Front End Development student from Italy.</h3>
 <hr/>
 
