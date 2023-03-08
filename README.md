@@ -5,7 +5,7 @@ I'm Alessandra, a freelancer Software Tester and passionate Front-end Developmen
 <br/>
 - 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning - **JavaScript - WordPress**
+- 🌱 I’m currently learning: **JavaScript - WordPress**
 
 - 📫 How to reach me **alessandra.casole92@gmail.com**
 
