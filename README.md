@@ -28,7 +28,7 @@ I'm Alessandra, a passionate Front-end Development student and freelancer Softwa
 
 ### Get in touch
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alessandracasole/" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessandracasole/" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alessandracasole/" target="blank" rel="noopener"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" width="30" /></a>
 
 
 
