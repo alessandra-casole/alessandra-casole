@@ -1,26 +1,35 @@
 ![](https://github.com/alessandra-casole/alessandra-casole/blob/main/banner.png)
 # Hi there 👋
-I'm Alessandra, a freelancer Software Tester and passionate Front-end Development student from Italy.</h3>
+I'm Alessandra, a passionate Front-end Development student and freelancer Software Tester from Italy.</h3>
 <br/>
 <br/>
 - 🔭 I’m currently working on my **Portfolio**
 
 - 🌱 I’m currently learning: **JavaScript - WordPress**
 
+- 👨‍💻 My most recent projects are available at [alessandracasole-dev.com](https://alessandracasole-dev.com/)
+
 - 📫 How to reach me **alessandra.casole92@gmail.com**
 
-## Skills
-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandra-casole&show_icons=true&locale=en&layout=compact" alt="alessandra-casole" /></p>
+#
 
+### Languages and Tools
 
-## Get in touch
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alessandracasole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessandracasole/" height="30" width="40" /></a>
-</p>
+<img align="left" alt="HTML" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bootstrap" width="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
+<img align="left" alt="Sass" width="35" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<br>
+
+#
+
+### Get in touch
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alessandracasole/" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessandracasole/" width="30" /></a>
+
 
 
 
