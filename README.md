@@ -1,6 +1,6 @@
 ![](https://github.com/alessandra-casole/alessandra-casole/blob/main/banner.png)
 # Hi there 👋
-I'm Alessandra, a passionate Front-end Development student and freelancer Software Tester from Italy.</h3>
+I'm Alessandra, a passionate Front-end Development student and freelancer Crowd Tester from Italy.</h3>
 <br/>
 <br/>
 - <img align="center" alt="Projects" width="20" src="https://user-images.githubusercontent.com/116037680/230639583-a23b8d8e-2aee-43bd-a8fe-f543850a1a3d.png"> I’m currently working on my **Portfolio**
