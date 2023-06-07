@@ -5,7 +5,7 @@ I'm Alessandra, a passionate Front-end Development student and freelancer Crowd 
 <br/>
 - <img align="center" alt="Projects" width="20" src="https://user-images.githubusercontent.com/116037680/230639583-a23b8d8e-2aee-43bd-a8fe-f543850a1a3d.png"> I’m currently working on my **Portfolio**
 
-- <img align="center" alt="Pc" width="20" src="https://user-images.githubusercontent.com/116037680/230639172-978bbdc2-fc11-4507-af2f-61b9ad06e25d.png"> I’m currently learning: **JavaScript
+- <img align="center" alt="Pc" width="20" src="https://user-images.githubusercontent.com/116037680/230639172-978bbdc2-fc11-4507-af2f-61b9ad06e25d.png"> I’m currently learning: **JavaScript**
 
 - <img align="center" alt="Website" width="20" src="https://user-images.githubusercontent.com/116037680/230639872-7a033f22-a3fc-4a97-9bc4-e596d7534ef4.png"> My most recent projects are available at [alessandracasole-dev.com](https://alessandracasole-dev.com/)
 
