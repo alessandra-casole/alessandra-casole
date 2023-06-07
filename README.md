@@ -28,7 +28,7 @@ I'm Alessandra, a passionate Front-end Development student and freelancer Crowd 
 
 ### Get in touch
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alessandracasole/" target="blank" rel="noopener"><img align="center" src="https://user-images.githubusercontent.com/116037680/230717112-984cf6c4-f829-42ee-a9dc-650803b8e306.png" alt="Linkedin" width="30" /></a>
+<a href="https://www.linkedin.com/in/alessandracasole/" target="blank" rel="noopener"><img align="center" src="https://user-images.githubusercontent.com/116037680/230717112-984cf6c4-f829-42ee-a9dc-650803b8e306.png" alt="Linkedin" width="30" /></a>
 
 
 
