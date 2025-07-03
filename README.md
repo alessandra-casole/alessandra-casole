@@ -20,7 +20,7 @@
 <img align="left" alt="Sass" width="35" style="margin-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg">
 <img align="left" alt="Git" width="30" style="margin-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />
 <img align="left" alt="NodeJS" width="30" style="margin-right:5px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
-
+<img align="left" alt="Angular" width="35" style="margin-right:5px; margin-bottom: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
 <br>
 
 #
