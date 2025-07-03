@@ -8,7 +8,6 @@
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [my website](http://alessandracasole-dev.com)
 * ✉️  You can contact me at [alessandra.casole92@gmail.com](mailto:alessandra.casole92@gmail.com)
-* 🧠  I'm learning Angular
 
 #
 
