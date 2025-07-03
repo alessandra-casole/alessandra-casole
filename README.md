@@ -3,7 +3,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35">
 ### Front-end Developer
 
-<p> My name is Alessandra, I've been studying coding for about 1 year and I'm passionate about front-end development!</p>
+<p> My name is Alessandra, I'm a software developer and I'm passionate about front-end development!</p>
 
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [my website](http://alessandracasole-dev.com)
